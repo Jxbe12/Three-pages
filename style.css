@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.custom-background {
+    background-image: url;(https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pok%C3%A9mon_Legends_Arceus_Logo.png/640px-Pok%C3%A9mon_Legends_Arceus_Logo.png)
+    background-repeat: no-repeat;
+    background-size: cover;
+}
